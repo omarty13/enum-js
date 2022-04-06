@@ -1,0 +1,23 @@
+{
+  "name": "@omarty13/enum-js",
+  "version": "1.0.0",
+  "description": "enum-js implements the data type whose set of values is a limited list of identifiers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarty13/enum-js.git"
+  },
+  "keywords": [
+    "enum",
+    "enumerable"
+  ],
+  "author": "omarty13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarty13/enum-js/issues"
+  },
+  "homepage": "https://github.com/omarty13/enum-js#readme"
+}
