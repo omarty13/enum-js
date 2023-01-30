@@ -1,6 +1,6 @@
 {
   "name": "@omarty13/enum-js",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "enum-js implements the data type whose set of values is a limited list of identifiers.",
   "main": "index.mjs",
   "scripts": {
